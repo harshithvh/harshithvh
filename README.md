@@ -23,7 +23,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Windows" width="32px" src="https://img.icons8.com/color/452/python--v1.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://potomac.edu/wp-content/uploads/2020/12/logo-c-1-e1608652657311.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://th.bing.com/th/id/R.b58560fa1d453c1038d72b16711dde9b?rik=EhSxvlPylwRLnA&riu=http%3a%2f%2ffc08.deviantart.net%2ffs70%2ff%2f2014%2f025%2f4%2f6%2fcode__blocks_icon_by_grabusz-d73n2y9.png&ehk=br3Xhnrh5NY6cDl2i8npm7dQk0jaUCBe2AYzTHgkPlg%3d&risl=&pid=ImgRaw&r=0" />
@@ -50,5 +50,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 
 <br />
-<br />
----
