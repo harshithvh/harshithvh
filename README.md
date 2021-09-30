@@ -5,8 +5,8 @@
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on AI & ML and automation related projects .
-- 💬 Ask me about Python, C.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Python, C and Javascript.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ## ✉️ Find me on
 
@@ -20,6 +20,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Windows" width="32px" src="https://img.icons8.com/color/452/python--v1.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://potomac.edu/wp-content/uploads/2020/12/logo-c-1-e1608652657311.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -31,12 +32,19 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Windows" width="32px" src="https://img.icons8.com/color/452/windows-10.png" />
-<img align="left" alt="Windows" width="32px" src="https://img.icons8.com/color/452/python--v1.png" />
 
 <br />
+<br />
+
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&theme=radical)
+
 <br />
+<br />
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvh&theme=tokyonight)
 
 
