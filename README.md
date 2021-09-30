@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### My Github Stats:
+### :trophy:My Github Stats:
 
 ---
 
@@ -49,8 +49,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 
-
 <br />
 <br />
-
 ---
