@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
 
-## I'm a Student, Developer!!## 💁‍♂️ About me
+## 💁‍♂️ About me
 
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
 - 🌱 I’m currently learning everything 🤣
