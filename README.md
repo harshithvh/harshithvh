@@ -1,4 +1,4 @@
-### Hi there, I'm Harshith 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith 👋
 
 ## I'm a Student, Developer!!
 
