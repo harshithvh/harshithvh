@@ -3,7 +3,7 @@
 ## 💁‍♂️ About me
 
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
-- 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[DSCE]**.
+- 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Dayananda Sagar College of Engineering, Bangalore]**.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on AI & ML and automation related projects .
 - 💬 Ask me about Python, C and Javascript.
