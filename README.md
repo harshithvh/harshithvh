@@ -43,8 +43,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulakkoc&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&theme=radical)&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 
 <br />
 <br />
