@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/harshithvh/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a></a>
- <a href="https://www.linkedin.com/in/harshith-vh-335951221/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a></a>
+ <a href="https://www.linkedin.com/in/harshith-vh-335951221/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Python" height="40" style="vertical-align:top; margin:6px"></a></a>
  <a href="mailto:vhharshith77@gmail.com"> <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="Python" height="47" style="vertical-align:top; margin:6px"></a>
 
 <br />
