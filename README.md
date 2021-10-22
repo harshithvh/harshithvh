@@ -46,4 +46,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=harshithvh&theme=chartreuse-dark" alt="my github stats" width="70%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&theme=chartreuse-dark" alt="my commit status" width="70%" /> </p>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshithvh&layout=compact&langs_count=8&theme=chartreuse-dark"  width="60%"/>
-<br />
