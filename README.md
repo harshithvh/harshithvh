@@ -1,5 +1,5 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
-<img align="right" src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif">
+<img align="right" src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="480px> 
 ## 💁‍♂️ About me
 
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
