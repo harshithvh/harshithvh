@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="400px" alt="GIF" align="right"> 
-
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
+<img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="350px" alt="GIF" align="right"> 
 
 ## 💁‍♂️ About me
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
