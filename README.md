@@ -25,7 +25,7 @@
 
 <img align="left" alt="Visual Studio Code"  height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Python" align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/python.png"/>
-<img alt="Java" align="left" height="38" width="34" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png"/>
+<img alt="Java" align="left" height="40" width="34" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="Css" align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/css3.png"/>
 <img alt="C" align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
