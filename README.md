@@ -1,7 +1,8 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
 <img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="400px" alt="GIF" align="right"> 
-## 💁‍♂️ About me
 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
+
+## 💁‍♂️ About me
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
 - 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Dayananda Sagar College of Engineering, Bangalore]**.
 - 🌱 I’m currently learning everything 🤣
