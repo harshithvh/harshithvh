@@ -4,10 +4,10 @@
 ## 💁‍♂️ About me
 - I'm a self-taught passionate BackEnd developer from India 🇮🇳
 - 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Dayananda Sagar College of Engineering, Bangalore]**.
-- 🌱 I’m currently learning everything 🤣
+- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and Robotics**.
 - 👯 I’m looking to collaborate on AI & ML and automation related projects .
 - 💬 Ask me about Python, C and Javascript.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ## ✉️ Find me on
