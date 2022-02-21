@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="400px" alt="GIF" align="right"> 
 
 ## 💁‍♂️ About me
-- I'm a self-taught passionate Fullstack developer from India 🇮🇳
+- I'm a self-taught passionate **Fullstack developer** from India 🇮🇳
 - 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Dayananda Sagar College of Engineering, Bangalore]**.
 - 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP**.
 - 👯 I’m looking to collaborate on AI & ML and automation related projects .
