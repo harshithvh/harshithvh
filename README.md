@@ -1,3 +1,4 @@
+<p>
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
 <img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="400px" alt="GIF" align="right"> 
 
@@ -7,7 +8,7 @@
 - 👯 I’m looking to collaborate on AI & ML and automation related projects .
 - 💬 Ask me about Python, C and Javascript.
 - 🥅 2022 Goals: Contribute more to Open Source projects
-
+</p>
 
 ## ✉️ Find me on
 
