@@ -1,5 +1,5 @@
 <p>
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
+Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harshith
 <img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="400px" alt="GIF" align="right"> 
 
 ## 💁‍♂️ About me
@@ -17,8 +17,6 @@
  <a href="https://www.linkedin.com/in/harshith-vh-335951221/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a></a>
  <a href="mailto:vhharshith77@gmail.com"> <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="Python" height="47" style="vertical-align:bottom; margin:4px"></a>
  </p>
-
-<br />
 
 ### 🧰 Languages and Tools:
 
