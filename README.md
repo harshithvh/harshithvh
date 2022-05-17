@@ -25,7 +25,6 @@ Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/maste
 <p align="center">
 <img align="left" alt="Visual Studio Code"  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Python" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/python.png"/>
-<img alt="Java" align="left" width="40" height="40" src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/css3.png"/>
 <img alt="Bootstrap" align="left" width="40" height="40" src="https://img.icons8.com/color/344/bootstrap.png"/>
@@ -34,6 +33,7 @@ Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/maste
 <img alt="Nodejs" align="left" width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1-1174935.png"/>
 <img alt="Express" align="left" width="40" height="40" src="https://th.bing.com/th/id/OIP.0UsojviMWbEFZIyJOG_bLAHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"/>
 <img align="left" alt="MongoDB" width="40" height="40" src="https://img.icons8.com/color/344/mongodb.png" />
+<img align="left" alt="MongoDB" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 <img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Windows" width="40" height="40" src="https://img.icons8.com/color/452/windows-10.png" />
