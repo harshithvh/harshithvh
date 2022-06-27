@@ -1,6 +1,5 @@
 <p>
 Hi there, I'm Harshith
-<img src="https://raw.githubusercontent.com/mohitagarwal1432/mohitagarwal1432/main/display.gif" width="400px" alt="GIF" align="right"> 
 
 ## 💁‍♂️ About me
 - 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Dayananda Sagar College of Engineering, Bangalore]**.
