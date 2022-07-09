@@ -26,7 +26,6 @@ Hi there, I'm Harshith
 <img alt="Python" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/python.png"/>
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/css3.png"/>
-<img alt="Bootstrap" align="left" width="40" height="40" src="https://img.icons8.com/color/344/bootstrap.png"/>
 <img alt="C" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img alt="Javascript" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 <img alt="Nodejs" align="left" width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1-1174935.png"/>
@@ -35,7 +34,6 @@ Hi there, I'm Harshith
 <img align="left" alt="MongoDB" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 <img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Windows" width="40" height="40" src="https://img.icons8.com/color/452/windows-10.png" />
 </p>
 <br />
 <br />
