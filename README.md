@@ -7,22 +7,21 @@
 
 ### Glad to see you here! &nbsp;
 
-* I'm a Pre-final year undergraduate in Computer Science 🎓 from DSCE University 🏛. 
+* I'm a Pre-final year undergraduate in Computer Science 🎓 from DSCE, Bangalore 🏛. 
 * I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
 * I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-* I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+* I'm currently into Full-stack Development 🕸️, Machine Learning 🤖 and working on my Data Structures and Algorithms 🤓.
 
 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Reactjs, Django, <br /> Nodejs, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yashikajotwani12).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)! I am happy to help.
+- 🛠 &nbsp; I’m currently working with Reactjs, Flask, <br /> Nodejs, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development and Machine Learning.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshithvh/).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harshith-vh-335951221/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: yashikajotwani12@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1rRcz95GEzskvz_kP-YRjeeqKqXQJerJ1/view).
+- 📫 &nbsp; How to reach me: vhharshith77@gmail.com.
 
 ### My Absolute Favorites:
 
@@ -52,63 +51,24 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikajotwani12&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashikajotwani12&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/yashikajotwani12/yashikajotwani12"><b>🤓 yashikajotwani12</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yashikajotwani12/yashikajotwani12?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/yashikajotwani12/yashikajotwani12?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/yashikajotwani12/yashikajotwani12?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yashikajotwani12/yashikajotwani12?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-     <tbody>
-      <tr>
-	      <td><a href="https://github.com/yashikajotwani12/Menstruated"><b>🤓 Menstruated</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/yashikajotwani12/Menstruated?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/yashikajotwani12/Menstruated?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/yashikajotwani12/Menstruated?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Menstruated/yashikajotwani12?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&hide_border=true" />
 </details>
  
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 22.4</li>
-	    <li><b>Laptop: </b> HP  (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>OS:</b> Windows</li>
+	    <li><b>Laptop: </b> DELL (i5)</li>
+  	    <li><b>Browser: </b> Firefox and Edge</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
