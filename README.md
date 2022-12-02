@@ -69,7 +69,7 @@
   	    <li><b>OS:</b> Windows</li>
 	    <li><b>Laptop: </b> DELL (i5)</li>
   	    <li><b>Browser: </b> Firefox and Edge</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Terminal: </b> PowerShell and GitBash</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
