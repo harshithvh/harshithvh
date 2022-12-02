@@ -1,46 +1,124 @@
-<p>
-Hi there, I'm Harshith
+<img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
 
-## 💁‍♂️ About me
-- 🏫 Pursuing **B.Tech** in **Computer Science and Engineering** from **[Dayananda Sagar College of Engineering, Bangalore]**.
-- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP**.
-- 👯 I’m looking to collaborate on AI & ML and automation related projects .
-- 💬 Ask me about Python, C and Javascript.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-</p>
+## Hey 👋, I'm [Harshith!](https://github.com/harshithvh/)
 
-## ✉️ Find me on
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-vh-335951221/)
 
-<p align="center">
-<a href="https://www.instagram.com/harshithvh/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a></a>
- <a href="https://www.linkedin.com/in/harshith-vh-335951221/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a></a>
- <a href="mailto:vhharshith77@gmail.com"> <img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="Python" height="47" style="vertical-align:bottom; margin:4px"></a>
- </p>
 
-### 🧰 Languages and Tools:
+### Glad to see you here! &nbsp;
 
----
+* I'm a Pre-final year undergraduate in Computer Science 🎓 from DSCE University 🏛. 
+* I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
+* I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+* I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<p align="center">
-<img align="left" alt="Visual Studio Code"  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Python" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/python.png"/>
-<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/css3.png"/>
-<img alt="C" align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img alt="Javascript" align="left" width="40" height="40" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-<img alt="Nodejs" align="left" width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1-1174935.png"/>
-<img alt="Firebase" align="left" width="40" height="40" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png"/>
-<img align="left" alt="MongoDB" width="40" height="40" src="https://img.icons8.com/color/344/mongodb.png" />
-<img align="left" alt="MongoDB" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
-<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</p>
-<br />
-<br />
 
-### :trophy:My Github Stats:
 
----
+### Talking about Personal Stuffs:
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshithvh&theme=chartreuse-dark" alt="my github stats" width="70%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&theme=chartreuse-dark" alt="my commit status" width="70%" /> </p>
+- 🛠 &nbsp; I’m currently working with Reactjs, Django, <br /> Nodejs, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yashikajotwani12).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: yashikajotwani12@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1rRcz95GEzskvz_kP-YRjeeqKqXQJerJ1/view).
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikajotwani12&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashikajotwani12&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/yashikajotwani12/yashikajotwani12"><b>🤓 yashikajotwani12</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yashikajotwani12/yashikajotwani12?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/yashikajotwani12/yashikajotwani12?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/yashikajotwani12/yashikajotwani12?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yashikajotwani12/yashikajotwani12?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+     <tbody>
+      <tr>
+	      <td><a href="https://github.com/yashikajotwani12/Menstruated"><b>🤓 Menstruated</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yashikajotwani12/Menstruated?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/yashikajotwani12/Menstruated?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/yashikajotwani12/Menstruated?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Menstruated/yashikajotwani12?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 22.4</li>
+	    <li><b>Laptop: </b> HP  (i5)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+		</ul>	
+</details>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
