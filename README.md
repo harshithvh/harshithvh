@@ -35,10 +35,15 @@
 <code><img height="27" src="https://camo.githubusercontent.com/ccaa0248b115a59c950a95e7ffc8289ac0774b476504ce76735f8fa0c5092197/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f707974686f6e2e706e67" alt="python"></code>
 <code><img height="27" src="https://camo.githubusercontent.com/8b8acb695825952633084168a29de989414d678ec8f4dbc6ce3a9d33cc830bd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f6a6176617363726970742e706e67" alt="javascript"></code>
 <code><img height="27" src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" alt="nodejs"></code>
+<code><img height="27" src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb"></code>
+<code><img height="27" src="https://img.icons8.com/color/512/material-ui.png" alt="materialui"></code>
 <code><img height="27" src="https://camo.githubusercontent.com/1982dfb061aa4819462fdf8bb7ac43aa354d600064c7bb6ccdedb58a88077c99/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33322f3030303030302f72656163742d6e61746976652e706e67" alt="react"></code>
 <code><img height="27" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="firebase"></code>
 <code><img height="27" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"></code>
-<code><img height="27" src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb"></code>
+<code><img height="27" src="https://img.icons8.com/color/512/numpy.png" alt="numpy"></code>
+<code><img height="27" src="https://img.icons8.com/color/512/pandas.png" alt="pandas"></code>
+<code><img height="27" src="https://img.icons8.com/fluency/512/selenium-test-automation.png" alt="selenium"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
 <code><img height="27" src="https://img.icons8.com/color/512/visual-studio-code-2019.png" alt="vscode"></code>
 
