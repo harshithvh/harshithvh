@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://camo.githubusercontent.com/e97db4bd67f5a47d2070ebd97f80b34c7410ced9e42c834dbd6e6f8f3722fd75/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
