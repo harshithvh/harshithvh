@@ -9,7 +9,6 @@
 
 * I'm a Pre-final year undergraduate in Computer Science 🎓 from DSCE, Bangalore 🏛. 
 * I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
-* I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 * I'm currently into Full-stack Development 🕸️, Machine Learning 🤖 and working on my Data Structures and Algorithms 🤓.
 
 
@@ -20,13 +19,12 @@
 - 🚀 &nbsp; I’m currently learning Full Stack Development and Machine Learning.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshithvh/).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harshith-vh-335951221/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: vhharshith77@gmail.com.
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
