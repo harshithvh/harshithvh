@@ -32,15 +32,15 @@
 ### Languages and Tools:
 
 <code><img height="27" src="https://camo.githubusercontent.com/e97db4bd67f5a47d2070ebd97f80b34c7410ced9e42c834dbd6e6f8f3722fd75/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://camo.githubusercontent.com/ccaa0248b115a59c950a95e7ffc8289ac0774b476504ce76735f8fa0c5092197/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f707974686f6e2e706e67" alt="python"></code>
+<code><img height="27" src="https://camo.githubusercontent.com/8b8acb695825952633084168a29de989414d678ec8f4dbc6ce3a9d33cc830bd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f6a6176617363726970742e706e67" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="27" src="https://camo.githubusercontent.com/1982dfb061aa4819462fdf8bb7ac43aa354d600064c7bb6ccdedb58a88077c99/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33322f3030303030302f72656163742d6e61746976652e706e67" alt="react"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="firebase"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 
