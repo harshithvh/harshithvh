@@ -15,7 +15,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Reactjs, Flask, <br /> Nodejs, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Python, MySQL, Javascript, .NET etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshithvh/).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harshith-vh-335951221/)! I am happy to help.
 - 📫 &nbsp; How to reach me: vhharshith77@gmail.com.
