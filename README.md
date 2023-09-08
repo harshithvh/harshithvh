@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-* I'm a Pre-final year undergraduate in Computer Science 🎓 from DSCE, Bangalore 🏛. 
+* I'm a final year undergraduate in Computer Science 🎓 from DSCE, Bangalore 🏛. 
 * I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
 * I'm currently into Full-stack Development 🕸️, Machine Learning 🤖 and working on my Data Structures and Algorithms 🤓.
 
@@ -16,7 +16,6 @@
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Reactjs, Flask, <br /> Nodejs, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development and Machine Learning.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshithvh/).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harshith-vh-335951221/)! I am happy to help.
 - 📫 &nbsp; How to reach me: vhharshith77@gmail.com.
