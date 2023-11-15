@@ -29,6 +29,7 @@
 ### Languages and Tools:
 
 <code><img height="27" src="https://camo.githubusercontent.com/e97db4bd67f5a47d2070ebd97f80b34c7410ced9e42c834dbd6e6f8f3722fd75/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" alt="cpp"></code>
+<code><img height="27" src="https://img.icons8.com/?size=48&id=55251&format=png" alt="csharp"></code>
 <code><img height="27" src="https://img.icons8.com/?size=48&id=13679&format=png" alt="java"></code>
 <code><img height="27" src="https://camo.githubusercontent.com/ccaa0248b115a59c950a95e7ffc8289ac0774b476504ce76735f8fa0c5092197/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f707974686f6e2e706e67" alt="python"></code>
 <code><img height="27" src="https://camo.githubusercontent.com/8b8acb695825952633084168a29de989414d678ec8f4dbc6ce3a9d33cc830bd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f6a6176617363726970742e706e67" alt="javascript"></code>
