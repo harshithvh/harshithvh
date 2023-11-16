@@ -7,7 +7,7 @@
 - 🔭 <samp>I’m a former Software Developer Intern @ Ceridian.
 - 💬 <samp>Ask me about DSA, web-dev, system-design, LLMs.
 - 🥇 <samp>Open Source Enthusiast.
-- 😄 <samp>Absolute Favorites: Hackathons, meetups & tech events.
+- 🚀 <samp>Absolute Favorites: Hackathons, meetups & tech events.
 - 😄 <samp>Pronouns: He/His.
 </div>
 
