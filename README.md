@@ -5,10 +5,11 @@
 <div>
 
 - 🔭 <samp>I’m a former Software Developer Intern @ Ceridian.
+- 🌱 <samp>I’m currently learning SpringBoot and Microservices.
 - 💬 <samp>Ask me about DSA, web-dev, system-design, LLMs.
 - 🥇 <samp>Open Source Enthusiast.
 - 🚀 <samp>Absolute Favorites: Hackathons, meetups & tech events.
-- 😄 <samp>Pronouns: He/His.
+- 😄 <samp>Pronouns: He/Him.
 </div>
 
 ##
@@ -82,7 +83,7 @@
 [![Contact](https://img.shields.io/badge/contact@vhharshith77-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@vhharshith77)
 [![Linkedin](https://img.shields.io/badge/Harshith_VH-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-vh-335951221/) 
 
-![](https://visitor-badge.glitch.me/badge?page_id=harshithvh.harshithvh)
+![](https://komarev.com/ghpvc/?username=harshithvh&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
 <h3><b><samp>Show some ❤️ by starring some of the repositories!</samp></b></h3>
