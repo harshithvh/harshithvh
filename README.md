@@ -5,11 +5,9 @@
 <div>
 
 - 🔭 <samp>I’m a former Software Developer Intern @ Ceridian.
-- 💬 <samp>Ask me about .
-- ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).
-- 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots.
-- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
-- 🥇 <samp>Open Source Enthusiast. 
+- 💬 <samp>Ask me about DSA, web-dev, system-design, LLMs.
+- 🥇 <samp>Open Source Enthusiast.
+- 😄 <samp>Absolute Favorites: Hackathons, meetups & tech events.
 - 😄 <samp>Pronouns: He/His.
 </div>
 
@@ -86,4 +84,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshithvh.harshithvh)
 
+<div align="center">
 <h3><b><samp>Show some ❤️ by starring some of the repositories!</samp></b></h3>
+</div>
