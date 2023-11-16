@@ -79,8 +79,6 @@
 
 ##
 
-##
-
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/contact@vhharshith77-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@vhharshith77)
