@@ -1,78 +1,71 @@
-<img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
+<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am Harshith VH </samp></h1></p>
+<p align="center"><h4 align="center"><samp> Competitive Programmer | Full Stack Developer </samp></h4></p>
+<br>
+<div>
 
-## Hey 👋, I'm [Harshith!](https://github.com/harshithvh/)
+- 🔭 <samp>I’m a former Software Developer Intern @ Ceridian.
+- 💬 <samp>Ask me about .
+- ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).
+- 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots.
+- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
+- 🥇 <samp>Open Source Enthusiast. 
+- 😄 <samp>Pronouns: He/His.
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-vh-335951221/)
+##
 
+<h4><b><samp>Programming Languages</samp></b></h4>
 
-### Glad to see you here! &nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* I'm a final year undergraduate in Computer Science 🎓 from DSCE, Bangalore 🏛. 
-* I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
-* I'm currently into Full-stack Development 🕸️, Machine Learning 🤖 and working on my Data Structures and Algorithms 🤓.
+<h4><b><samp>Tools and Technologies</samp></b></h4>
 
+![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=for-the-badge&logo=Firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-443a86?style=for-the-badge&logo=Heroku&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=for-the-badge&logo=Node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/Graphql-db33a3?style=for-the-badge&logo=Graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ba94e?style=for-the-badge&logo=MongoDB&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+##
 
-### Talking about Personal Stuffs:
+</details>
 
-- 🛠 &nbsp; I’m currently working with Python, MySQL, Javascript, .NET etc.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshithvh/).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harshith-vh-335951221/)! I am happy to help.
-- 📫 &nbsp; How to reach me: vhharshith77@gmail.com.
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/> 
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+ </p>
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
-### Languages and Tools:
-
-<code><img height="27" src="https://camo.githubusercontent.com/e97db4bd67f5a47d2070ebd97f80b34c7410ced9e42c834dbd6e6f8f3722fd75/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" alt="cpp"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=55251&format=png" alt="csharp"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=13679&format=png" alt="java"></code>
-<code><img height="27" src="https://camo.githubusercontent.com/ccaa0248b115a59c950a95e7ffc8289ac0774b476504ce76735f8fa0c5092197/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f707974686f6e2e706e67" alt="python"></code>
-<code><img height="27" src="https://camo.githubusercontent.com/8b8acb695825952633084168a29de989414d678ec8f4dbc6ce3a9d33cc830bd2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3134342f3030303030302f6a6176617363726970742e706e67" alt="javascript"></code>
-<code><img height="27" src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" alt="nodejs"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=22813&format=png" alt="docker"></code>
-<code><img height="27" src="https://camo.githubusercontent.com/1982dfb061aa4819462fdf8bb7ac43aa354d600064c7bb6ccdedb58a88077c99/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33322f3030303030302f72656163742d6e61746976652e706e67" alt="react"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=90519&format=png" alt="springboot"></code>
-<code><img height="27" src="https://th.bing.com/th?id=OIP.0byw6xVRqosEnxIsHfBQsAHaHa&w=80&h=80&c=1&vt=10&bgcl=b3bb82&r=0&o=6&dpr=1.3&pid=5.1" alt=".net"></code>
-<code><img height="27" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="firebase"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=WHRLQdbEXQ16&format=png" alt="googlecloud"></code>
-<code><img height="27" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"></code>
-<code><img height="27" src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png" alt="mysql"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=t2x6DtCn5Zzx&format=png" alt="nginx"></code>
-<code><img height="27" src="https://img.icons8.com/color/512/numpy.png" alt="numpy"></code>
-<code><img height="27" src="https://img.icons8.com/color/512/pandas.png" alt="pandas"></code>
-<code><img height="27" src="https://img.icons8.com/fluency/512/selenium-test-automation.png" alt="selenium"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
-<code><img height="27" src="https://img.icons8.com/?size=48&id=31085&format=png" alt="heroku"></code>
-
-
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b><samp>☄️ Github Streaks</samp></b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&hide_border=true" />
+ <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&hide_border=true" /></p>
 </details>
- 
+
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b><samp>⚙️ Things I use to get stuff done</samp></b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows</li>
 	    <li><b>Laptop: </b> DELL (i5)</li>
@@ -84,9 +77,13 @@
 		</ul>	
 </details>
 
-<div align="center">
+##
 
-### Show some ❤️ by starring some of the repositories!
+##
 
-</div>
+<h4><b><samp>Connect with me:</samp></b></h4>
 
+[![Contact](https://img.shields.io/badge/contact@vhharshith77-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@vhharshith77)
+[![Linkedin](https://img.shields.io/badge/Harshith_VH-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-vh-335951221/) 
+
+![](https://visitor-badge.glitch.me/badge?page_id=harshithvh.harshithvh)
