@@ -85,3 +85,5 @@
 [![Linkedin](https://img.shields.io/badge/Harshith_VH-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshith-vh-335951221/) 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshithvh.harshithvh)
+
+<h3><b><samp>Show some ❤️ by starring some of the repositories!</samp></b></h3>
