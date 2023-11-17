@@ -49,8 +49,8 @@
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshithvh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/> 
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithvh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+<p align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshithvh&theme=aura_dark"/> 
+	<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshithvh&theme=aura_dark"/>
  </p>
 
 </details>
@@ -59,7 +59,7 @@
   <summary><b><samp>☄️ Github Streaks</samp></b></summary>
 
   <br />
- <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&hide_border=true" /></p>
+ <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshithvh&theme=neon-palenight&hide_border=true" /></p>
 </details>
 
 <details>	
