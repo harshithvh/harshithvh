@@ -1,6 +1,6 @@
 <p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Harshith VH </samp></h1></p>
-<p align="center"><h4 align="center"><samp> Competitive Programmer | Full Stack Developer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> Software Engineer | Competitive Programmer </samp></h4></p>
 <br>
 <div>
 
