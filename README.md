@@ -4,11 +4,11 @@
 <br>
 <div>
 
-- 🔭 <samp>I’m a former Software Developer Intern @ Ceridian.
+- 🔭 <samp>I’m a former Software Developer Intern @ Lucidity.
 - 🌱 <samp>I’m currently learning SpringBoot and Microservices.
 - 💬 <samp>Ask me about DSA, web-dev, system-design, LLMs.
 - 🥇 <samp>Open Source Enthusiast.
-- 🚀 <samp>Absolute Favorites: Hackathons, meetups & tech events.
+- 🚀 <samp>Absolute Favorites: Hackathons, tech events, and Finance.
 - 😄 <samp>Pronouns: He/Him.
 </div>
 
@@ -16,26 +16,23 @@
 
 <h4><b><samp>Programming Languages</samp></b></h4>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <h4><b><samp>Tools and Technologies</samp></b></h4>
 
-![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=for-the-badge&logo=Firebase&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-443a86?style=for-the-badge&logo=Heroku&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=for-the-badge&logo=Node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/Graphql-db33a3?style=for-the-badge&logo=Graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ba94e?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -66,11 +63,11 @@
   <br />
   <summary><b><samp>⚙️ Things I use to get stuff done</samp></b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows</li>
+  	    <li><b>OS:</b> Ubuntu</li>
 	    <li><b>Laptop: </b> DELL (i5)</li>
-  	    <li><b>Browser: </b> Firefox and Edge</li>
+  	    <li><b>Browser: </b> Firefox and Chrome</li>
 	    <li><b>Terminal: </b> PowerShell and GitBash</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> Intellij - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 		</ul>	
