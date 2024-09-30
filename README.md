@@ -67,7 +67,6 @@
   <summary><b><samp>⚙️ Things I use to get stuff done</samp></b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu</li>
-	    <li><b>Laptop: </b> DELL (i5)</li>
   	    <li><b>Browser: </b> Firefox and Chrome</li>
 	    <li><b>Terminal: </b> PowerShell and GitBash</li>
 	    <li><b>Code Editor:</b> Intellij - The best editor out there.</li>
