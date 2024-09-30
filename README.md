@@ -1,10 +1,10 @@
 <p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Harshith VH </samp></h1></p>
-<p align="center"><h4 align="center"><samp> Software Engineer | Competitive Programmer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> Software Engineer </samp></h4></p>
 <br>
 <div>
 
-- 🔭 <samp>I’m a former Software Developer Intern @ Lucidity.
+- 🔭 <samp>I’m a former Software Developer Intern @ Dayforce.
 - 🌱 <samp>I’m currently learning SpringBoot and Microservices.
 - 💬 <samp>Ask me about DSA, web-dev, system-design, LLMs.
 - 🥇 <samp>Open Source Enthusiast.
